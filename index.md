@@ -1,6 +1,7 @@
 # DSC180A Methodology Assignment 5
 
 **Name:** Xianzhe Guo
+
 **Email:** xig003@ucsd.edu  
 
 **Section and Mentor:** B15, Phi Nguyen
