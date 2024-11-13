@@ -1,8 +1,3 @@
----
-title: Home
-layout: default
----
-
 # DSC180A Methodology Assignment 5
 
 **Name:** Xianzhe Guo
